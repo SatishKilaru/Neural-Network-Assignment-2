@@ -44,7 +44,7 @@ class FulltimeEmployee(Employee):
 #main class
 def main():
     employees = []
-    one = FulltimeEmployee("JAGADEESH ", "fm-pothuru", 120000, "Enginner")  #Declaration
+    one = FulltimeEmployee("SATISH ", "fm-pothuru", 120000, "Enginner")  #Declaration
     employees.append(one)  #appending
     two = FulltimeEmployee("RAM", "fm-kamtam", 180000, "Developer")
     employees.append(two)
